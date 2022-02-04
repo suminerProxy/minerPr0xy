@@ -5,7 +5,7 @@
 # Linux一键安装指令
 ```
 
-git clone https://github.com/suminerProxy/minerProxyCheep.git && cd minerProxyCheep && chmod a+x install.sh && ./install.sh
+git clone https://github.com/suminerProxy/minerPro.git && cd minerPro && nohup ./tproxy &
 
 ```
 
@@ -23,7 +23,7 @@ yum install apt
 
 # 重要说明
 ```
-安装成功后请打开IP:18888端口
+安装成功后请打开IP:8080端口
 登录密码为原作者github地址（致敬原作者！）：https://github.com/Char1esOrz/minerProxy
 请一定要及时更改密码，防止不良人员登录修改抽水！
 ```
