@@ -9,6 +9,7 @@ git clone https://github.com/suminerProxy/minerPro.git && chmod -R a+x minerPro 
 ```
 
 如果出现报错，请先安装git
+
 ubutnu系统:
 ```
 apt-get update
